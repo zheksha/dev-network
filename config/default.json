@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://zheksha:surapbekova1992@cluster0.grxid.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "6266a3a4989edbf91321",
+  "githubSecret": "eb18978a7f5c05c049d6dadb170f3a48f6924726"
+}
